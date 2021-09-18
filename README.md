@@ -2,8 +2,6 @@
 
 ## Hi, I'm Hannah :wave:
 
-![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
-
 ![GitHub followers](https://img.shields.io/github/followers/hannahfolk?style=social)
 </div>
 <samp>
@@ -28,6 +26,8 @@
 **:briefcase: Hire me :** [https://hannahfolkcodes.com](https://hannahfolkcodes.com)
 
 </samp>
+
+<div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahfolk&layout=compact&hide=html" alt="hannahfolk" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hannahfolk&show_icons=true" alt="hannahfolk" />
