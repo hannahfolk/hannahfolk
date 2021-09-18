@@ -32,5 +32,5 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahfolk&layout=compact&hide=html" alt="hannahfolk" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hannahfolk&show_icons=true" alt="hannahfolk" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahfolk&layout=compact&hide=html" alt="hannahfolk" />
+<img src="https://github-readme-stats.vercel.app/api?username=hannahfolk&show_icons=true" alt="hannahfolk" />
