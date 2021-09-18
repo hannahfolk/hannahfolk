@@ -29,10 +29,5 @@
 
 </samp>
 
-<div align="center">
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahfolk&layout=compact&hide=html" alt="hannahfolk" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hannahfolk&show_icons=true" alt="hannahfolk" />
