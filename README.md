@@ -1,12 +1,13 @@
 <div align="center">
 
-## Hi, I'm Hannah <img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/wave.gif" width="30px">
+## Hi! I'm Hannah Folk <img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/wave.gif" width="30px">
 
-<img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/profile.jpeg" width="30%">
+#### Full Stack Developer
 
 ![GitHub followers](https://img.shields.io/github/followers/hannahfolk?style=social)
 </div>
 <samp>
+<img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/profile.jpeg" width="30%" align="right">
 
 **:gem: Job:** Developer at Hearful Hub
 
