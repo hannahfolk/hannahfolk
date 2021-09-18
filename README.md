@@ -2,7 +2,7 @@
 
 ## Hi, I'm Hannah <img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/wave.gif" width="30px">
 
-<img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/profile.jpeg">
+<img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/profile.jpeg" width="50%">
 
 ![GitHub followers](https://img.shields.io/github/followers/hannahfolk?style=social)
 </div>
