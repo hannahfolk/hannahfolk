@@ -1,6 +1,8 @@
 <div align="center">
 
-## Hi, I'm Hannah :wave:
+## Hi, I'm Hannah <img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/wave.gif" width="30px">
+
+<img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/profile.jpeg">
 
 ![GitHub followers](https://img.shields.io/github/followers/hannahfolk?style=social)
 </div>
