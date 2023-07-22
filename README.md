@@ -9,9 +9,9 @@
 <samp>
 <img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/profile.jpeg" width="30%" align="right">
 
-**:gem: Job:** Developer at Hearful Hub
+**:gem: Job:** Developer at Vuori Clothing
 
-**:school_satchel: Learning:** AWS, GraphQL
+**:school_satchel: Learning:** AWS, GraphQL, Typescript
 
 **:computer: Languages:** Javascript, Python, HTML, CSS
 
@@ -19,7 +19,7 @@
 
 **:heart: Hobbies:** Martial Arts, Disney adult, Parkour
 
-**:office: Organisation:** Hearful Hub
+**:office: Organisation:** Vuori Clothing
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/hannahfolk/">
