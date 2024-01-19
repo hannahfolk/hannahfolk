@@ -9,7 +9,7 @@
 <samp>
 <img src="https://raw.githubusercontent.com/hannahfolk/hannahfolk/master/profile.jpeg" width="30%" align="right">
 
-**:gem: Job:** Developer at Vuori Clothing
+**:gem: Job:** Developer at FASHIONPHILE
 
 **:school_satchel: Learning:** AWS, GraphQL, Typescript
 
@@ -19,7 +19,7 @@
 
 **:heart: Hobbies:** Martial Arts, Disney adult, Parkour
 
-**:office: Organisation:** Vuori Clothing
+**:office: Organisation:** FASHIONPHILE
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/hannahfolk/">
